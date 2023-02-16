@@ -1,0 +1,15 @@
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\bin\Debug\net6.0\Mood_Analyser.exe
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\bin\Debug\net6.0\Mood_Analyser.deps.json
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\bin\Debug\net6.0\Mood_Analyser.runtimeconfig.json
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\bin\Debug\net6.0\Mood_Analyser.dll
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\bin\Debug\net6.0\Mood_Analyser.pdb
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\Mood_Analyser.csproj.AssemblyReference.cache
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\Mood_Analyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\Mood_Analyser.AssemblyInfoInputs.cache
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\Mood_Analyser.AssemblyInfo.cs
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\Mood_Analyser.csproj.CoreCompileInputs.cache
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\Mood_Analyser.dll
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\refint\Mood_Analyser.dll
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\Mood_Analyser.pdb
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\Mood_Analyser.genruntimeconfig.cache
+C:\C_Sharp_Program\Mood Analyser\Mood_Analyser\obj\Debug\net6.0\ref\Mood_Analyser.dll
